@@ -31,13 +31,13 @@ body {
     font-weight: 500;
 }
 
-/* Botón estilo Material (no redondo) */
+
 .app-header button {
     padding: 10px 16px;
     background-color: #ffffff;
     color: #1976d2;
     border: none;
-    border-radius: 6px; /* redondeado, no circular */
+    border-radius: 6px; 
     font-weight: 500;
     cursor: pointer;
     transition: background-color 0.2s ease;
